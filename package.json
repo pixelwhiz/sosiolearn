@@ -1,0 +1,37 @@
+{
+  "name": "fullstack-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview",
+    "start": "node src/server/Index.js"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.11.2",
+    "@vueup/vue-quill": "^1.2.0",
+    "axios": "^1.4.0",
+    "bootstrap-icons": "^1.10.5",
+    "emotion": "^10.0.27",
+    "pdfjs-dist": "^3.10.111",
+    "querystring": "^0.2.1",
+    "register-service-worker": "^1.7.2",
+    "sortablejs": "^1.15.0",
+    "uuid": "^9.0.0",
+    "viewerjs": "^1.11.5",
+    "vue": "^3.3.4",
+    "vue-recaptcha": "^3.0.0-alpha.2",
+    "vue-router": "^4.2.4",
+    "vue3-toastify": "^0.1.11",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "concurrently": "^8.2.0",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9",
+    "vite-plugin-pwa": "^0.16.4"
+  }
+}

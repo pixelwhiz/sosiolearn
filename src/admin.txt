@@ -1,0 +1,14 @@
+
+
+admin :
+- buat soal, hapus soal, edit soal,
+- edit daftar siswa
+-
+-> pilihan ganda -> acak
+
+
+register :
+nama lengkap
+no absen
+kelas
+id voucher
